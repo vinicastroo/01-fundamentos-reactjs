@@ -1,8 +1,8 @@
-# 01 - Fundamentos ReactJS
+# 01 - React.js Fundamentals
 
-Exercício de estudo do módulo de React.js do Ignite (Rocketseat), turma 2022. Pratica os fundamentos do React em JavaScript puro: componentização, props, `.map()` para listas, CSS Modules e um feed de posts/comentários simples (Header, Sidebar, Post, Comment, Avatar).
+Study exercise for the React.js module of Ignite (Rocketseat), 2022 class. Practices the fundamentals of React in plain JavaScript: componentization, props, `.map()` for lists, CSS Modules, and a simple post/comment feed (Header, Sidebar, Post, Comment, Avatar).
 
-## Tecnologias
+## Technologies
 
 - React
 - Vite
@@ -10,7 +10,7 @@ Exercício de estudo do módulo de React.js do Ignite (Rocketseat), turma 2022. 
 - phosphor-react
 - CSS Modules
 
-## Como rodar
+## How to run
 
 ```bash
 npm install
