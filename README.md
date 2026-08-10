@@ -2,6 +2,8 @@
 
 > This project used to live together with several other study projects in a single monorepo. It has since been split out into its own dedicated repository. See the original [estudos-ignite](https://github.com/vinicastroo/estudos-ignite) repo for more context.
 
+![screenshot](./screenshot.png)
+
 Study exercise for the React.js module of Ignite (Rocketseat), 2022 class. Practices the fundamentals of React in plain JavaScript: componentization, props, `.map()` for lists, CSS Modules, and a simple post/comment feed (Header, Sidebar, Post, Comment, Avatar).
 
 ## Technologies
